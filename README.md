@@ -1,4 +1,4 @@
-# 100-Days-Of-AI
+# 100-Days-Of-Code
 **Note that this is not the repository with all the code. This is simply a README with a collection of links to all the projects.**
 
 ## Projects:  
