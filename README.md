@@ -3,3 +3,4 @@
 
 ## Projects:  
 * **Day 1**: [Neon Race Flash game bot, built on OpenAI's Universe/Gym](https://github.com/FleetAdmiral/NeonRaceFlash-Game_Bot)
+* **Day 2**: [Classify dog pictures by their breeds](https://github.com/FleetAdmiral/dog_breed_identification)
